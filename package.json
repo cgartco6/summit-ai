@@ -1,0 +1,16 @@
+{
+  "name": "summit-ai",
+  "version": "2.3.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "15.2.0",
+    "react": "^19.0.0-rc",
+    "react-dom": "^19.0.0-rc",
+    "lucide-react": "^0.475.0",
+    "sonner": "^1.7.0"
+  }
+}
